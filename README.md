@@ -10,10 +10,10 @@ Plex app - Shows the latest photos from Norwegian Armed Forces.
 Can be found in the App Store from within the Plex app.
 
 
-## Credit
+## Credits
 
 Created by [Sindre Sorhus](http://sindresorhus.com)  
-Icon and background by Peder Aaserud Eikeland
+Icon and background by [Peder Aaserud Eikeland](http://pae.no)
 
 
 ## License
